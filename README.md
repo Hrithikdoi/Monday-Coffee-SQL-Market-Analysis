@@ -17,7 +17,7 @@ Four related tables (see `erd.png`). Import in this order: `city`, `products`, `
 - The last month, October 2024, contains a single day of sales.
 - Estimated coffee consumers are assumed to be 25% of each city's population.
 
-![Schema](erd.png)
+![Schema](images/database-schema.png)
 
 ## Business Questions
 
