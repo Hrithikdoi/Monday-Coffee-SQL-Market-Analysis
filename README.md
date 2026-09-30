@@ -67,14 +67,21 @@ Pune is first by revenue. Delhi and Jaipur are fifth and fourth by revenue, so t
 ## Files
 
 ```text
+
+data/
 ├── city.csv
 ├── customers.csv
 ├── products.csv
-├── sales.csv
+└── sales.csv
+
+images/
+└── database-schema.png
+
+sql/
 ├── schemas.sql
-├── solutions.sql
-├── erd.png
-└── README.md
+└── solutions.sql
+
+README.md
 ```
 
 ## Author
